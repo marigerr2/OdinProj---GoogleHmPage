@@ -1,0 +1,39 @@
+/*general*/
+
+body {
+  font: small arial,sans-serif;
+  text-align: -webkit-center;
+}
+div {
+  display:block;
+}
+
+/*Nav bar*/
+.nav bar {
+  position: absolute;
+  top: 15px;
+  -webkit-transition: opacity 130ms;
+  width: 100%;
+  
+}
+ul {
+    text-align: right;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+/* logo */
+.logo {
+  text-align: -webkit-center;
+  margin-top:45px;
+}
+
+/*form*/
+form {
+  height:39px;
+}
